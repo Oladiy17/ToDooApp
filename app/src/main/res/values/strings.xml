@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_your_email">введіть ваш e-mail...</string>
+    <string name="type_your_pass">введіть ваш пароль...</string>
+    <string name="retype_your_pass">введіть ваш пароль ще раз...</string>
+    <string name="sign_up">Реєстрація</string>
+    <string name="confirm">Підтвердити</string>
+    <string name="sign_in">Увійти в акаунт</string>
+    <string name="sign_up_up">Реєстрація</string>
+    <string name="sign_in_in">Вхід</string>
+    <string name="add_tsk_text">Додати</string>
+    <string name="add_task_text">Введіть ваш таск...</string>
+</resources>
